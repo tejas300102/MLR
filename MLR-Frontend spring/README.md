@@ -112,7 +112,6 @@ npm run build
 ## API Integration
 
 ### Backend Requirements
-- ASP.NET Core Web API with MySQL
 - JWT Authentication with roles (USER, ADMIN)
 - CORS enabled for frontend domain
 
