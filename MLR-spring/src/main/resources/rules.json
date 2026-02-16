@@ -1,0 +1,37 @@
+[
+  {
+    "workflowName": "MoneyLeakageRules",
+    "rules": [
+ 	  {
+        "ruleName": "IrregularSpending",
+        "successEvent": "Irregular spending pattern detected",
+        "errorMessage": "",
+        "expression": "input.avgDebit > 1000 && input.debitCount < 6"
+      },
+      {
+        "ruleName": "DuplicateTransactions",
+        "successEvent": "Potential Duplicate Transaction Detected",
+        "errorMessage": "",
+        "expression": "input.hasDuplicateTransactions == true"
+      },
+      {
+        "ruleName": "ExcessiveEntertainment",
+        "successEvent": "High Entertainment Spending Alert",
+        "errorMessage": "",
+        "expression": "input.entertainmentSpent > 1000 && input.entertainmentSpent > (input.totalSpentLast30Days * 0.3)"
+      },
+      {
+        "ruleName": "OverspendingVsPreviousMonth",
+        "successEvent": "Spending Alert: You have spent 50% more than last month.",
+        "errorMessage": "",
+        "expression": "input.totalSpentLast30Days > (input.totalSpentPrevious30Days * 1.5) && input.totalSpentPrevious30Days > 1000"
+      },
+      {
+        "ruleName": "DuplicateSalaryCredit",
+        "successEvent": "Multiple Salary Credits Detected",
+        "errorMessage": "",
+        "expression": "input.salaryCreditCountLast30Days > 1"
+      }
+    ]
+  }
+]
