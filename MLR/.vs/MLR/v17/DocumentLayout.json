@@ -1,0 +1,806 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shaik\\OneDrive\\Desktop\\my prj\\.net\\MLR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22D985B1-C479-4068-3646-D558428C314C}|MLR.csproj|c:\\users\\shaik\\onedrive\\desktop\\my prj\\.net\\mlr\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D985B1-C479-4068-3646-D558428C314C}|MLR.csproj|solutionrelative:services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D985B1-C479-4068-3646-D558428C314C}|MLR.csproj|c:\\users\\shaik\\onedrive\\desktop\\my prj\\.net\\mlr\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D985B1-C479-4068-3646-D558428C314C}|MLR.csproj|solutionrelative:authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D985B1-C479-4068-3646-D558428C314C}|MLR.csproj|c:\\users\\shaik\\onedrive\\desktop\\my prj\\.net\\mlr\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D985B1-C479-4068-3646-D558428C314C}|MLR.csproj|solutionrelative:admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D985B1-C479-4068-3646-D558428C314C}|MLR.csproj|c:\\users\\shaik\\onedrive\\desktop\\my prj\\.net\\mlr\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D985B1-C479-4068-3646-D558428C314C}|MLR.csproj|solutionrelative:services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D985B1-C479-4068-3646-D558428C314C}|MLR.csproj|c:\\users\\shaik\\onedrive\\desktop\\my prj\\.net\\mlr\\backgroundjobs\\leakagedetectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D985B1-C479-4068-3646-D558428C314C}|MLR.csproj|solutionrelative:backgroundjobs\\leakagedetectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D985B1-C479-4068-3646-D558428C314C}|MLR.csproj|c:\\users\\shaik\\onedrive\\desktop\\my prj\\.net\\mlr\\rules\\ruleexecutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D985B1-C479-4068-3646-D558428C314C}|MLR.csproj|solutionrelative:rules\\ruleexecutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D985B1-C479-4068-3646-D558428C314C}|MLR.csproj|c:\\users\\shaik\\onedrive\\desktop\\my prj\\.net\\mlr\\rules\\ruleloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D985B1-C479-4068-3646-D558428C314C}|MLR.csproj|solutionrelative:rules\\ruleloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D985B1-C479-4068-3646-D558428C314C}|MLR.csproj|c:\\users\\shaik\\onedrive\\desktop\\my prj\\.net\\mlr\\dao\\impl\\transactiondao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D985B1-C479-4068-3646-D558428C314C}|MLR.csproj|solutionrelative:dao\\impl\\transactiondao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D985B1-C479-4068-3646-D558428C314C}|MLR.csproj|c:\\users\\shaik\\onedrive\\desktop\\my prj\\.net\\mlr\\dao\\impl\\ruleexecutionlogdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D985B1-C479-4068-3646-D558428C314C}|MLR.csproj|solutionrelative:dao\\impl\\ruleexecutionlogdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D985B1-C479-4068-3646-D558428C314C}|MLR.csproj|c:\\users\\shaik\\onedrive\\desktop\\my prj\\.net\\mlr\\dao\\impl\\leakagealertdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D985B1-C479-4068-3646-D558428C314C}|MLR.csproj|solutionrelative:dao\\impl\\leakagealertdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D985B1-C479-4068-3646-D558428C314C}|MLR.csproj|c:\\users\\shaik\\onedrive\\desktop\\my prj\\.net\\mlr\\dao\\entities\\ruleexecutionlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D985B1-C479-4068-3646-D558428C314C}|MLR.csproj|solutionrelative:dao\\entities\\ruleexecutionlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D985B1-C479-4068-3646-D558428C314C}|MLR.csproj|c:\\users\\shaik\\onedrive\\desktop\\my prj\\.net\\mlr\\dao\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D985B1-C479-4068-3646-D558428C314C}|MLR.csproj|solutionrelative:dao\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D985B1-C479-4068-3646-D558428C314C}|MLR.csproj|c:\\users\\shaik\\onedrive\\desktop\\my prj\\.net\\mlr\\rules\\leakagecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D985B1-C479-4068-3646-D558428C314C}|MLR.csproj|solutionrelative:rules\\leakagecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D985B1-C479-4068-3646-D558428C314C}|MLR.csproj|c:\\users\\shaik\\onedrive\\desktop\\my prj\\.net\\mlr\\dtos\\validationpatterns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D985B1-C479-4068-3646-D558428C314C}|MLR.csproj|solutionrelative:dtos\\validationpatterns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D985B1-C479-4068-3646-D558428C314C}|MLR.csproj|c:\\users\\shaik\\onedrive\\desktop\\my prj\\.net\\mlr\\dtos\\paymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D985B1-C479-4068-3646-D558428C314C}|MLR.csproj|solutionrelative:dtos\\paymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D985B1-C479-4068-3646-D558428C314C}|MLR.csproj|c:\\users\\shaik\\onedrive\\desktop\\my prj\\.net\\mlr\\dtos\\leakagealertdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D985B1-C479-4068-3646-D558428C314C}|MLR.csproj|solutionrelative:dtos\\leakagealertdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D985B1-C479-4068-3646-D558428C314C}|MLR.csproj|c:\\users\\shaik\\onedrive\\desktop\\my prj\\.net\\mlr\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{22D985B1-C479-4068-3646-D558428C314C}|MLR.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D985B1-C479-4068-3646-D558428C314C}|MLR.csproj|c:\\users\\shaik\\onedrive\\desktop\\my prj\\.net\\mlr\\walletcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D985B1-C479-4068-3646-D558428C314C}|MLR.csproj|solutionrelative:walletcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D985B1-C479-4068-3646-D558428C314C}|MLR.csproj|c:\\users\\shaik\\onedrive\\desktop\\my prj\\.net\\mlr\\infrastructure\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D985B1-C479-4068-3646-D558428C314C}|MLR.csproj|solutionrelative:infrastructure\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D985B1-C479-4068-3646-D558428C314C}|MLR.csproj|c:\\users\\shaik\\onedrive\\desktop\\my prj\\.net\\mlr\\dao\\interfaces\\iruleexecutionlogdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D985B1-C479-4068-3646-D558428C314C}|MLR.csproj|solutionrelative:dao\\interfaces\\iruleexecutionlogdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D985B1-C479-4068-3646-D558428C314C}|MLR.csproj|c:\\users\\shaik\\onedrive\\desktop\\my prj\\.net\\mlr\\dao\\impl\\walletdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D985B1-C479-4068-3646-D558428C314C}|MLR.csproj|solutionrelative:dao\\impl\\walletdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D985B1-C479-4068-3646-D558428C314C}|MLR.csproj|c:\\users\\shaik\\onedrive\\desktop\\my prj\\.net\\mlr\\analyticscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D985B1-C479-4068-3646-D558428C314C}|MLR.csproj|solutionrelative:analyticscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D985B1-C479-4068-3646-D558428C314C}|MLR.csproj|c:\\users\\shaik\\onedrive\\desktop\\my prj\\.net\\mlr\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D985B1-C479-4068-3646-D558428C314C}|MLR.csproj|solutionrelative:applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D985B1-C479-4068-3646-D558428C314C}|MLR.csproj|c:\\users\\shaik\\onedrive\\desktop\\my prj\\.net\\mlr\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D985B1-C479-4068-3646-D558428C314C}|MLR.csproj|solutionrelative:dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D985B1-C479-4068-3646-D558428C314C}|MLR.csproj|c:\\users\\shaik\\onedrive\\desktop\\my prj\\.net\\mlr\\dao\\entities\\leakagealert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D985B1-C479-4068-3646-D558428C314C}|MLR.csproj|solutionrelative:dao\\entities\\leakagealert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D985B1-C479-4068-3646-D558428C314C}|MLR.csproj|c:\\users\\shaik\\onedrive\\desktop\\my prj\\.net\\mlr\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D985B1-C479-4068-3646-D558428C314C}|MLR.csproj|solutionrelative:transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D985B1-C479-4068-3646-D558428C314C}|MLR.csproj|c:\\users\\shaik\\onedrive\\desktop\\my prj\\.net\\mlr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D985B1-C479-4068-3646-D558428C314C}|MLR.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D985B1-C479-4068-3646-D558428C314C}|MLR.csproj|c:\\users\\shaik\\onedrive\\desktop\\my prj\\.net\\mlr\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D985B1-C479-4068-3646-D558428C314C}|MLR.csproj|solutionrelative:contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D985B1-C479-4068-3646-D558428C314C}|MLR.csproj|c:\\users\\shaik\\onedrive\\desktop\\my prj\\.net\\mlr\\dtos\\walletbalancedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D985B1-C479-4068-3646-D558428C314C}|MLR.csproj|solutionrelative:dtos\\walletbalancedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D985B1-C479-4068-3646-D558428C314C}|MLR.csproj|c:\\users\\shaik\\onedrive\\desktop\\my prj\\.net\\mlr\\dtos\\transactiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D985B1-C479-4068-3646-D558428C314C}|MLR.csproj|solutionrelative:dtos\\transactiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D985B1-C479-4068-3646-D558428C314C}|MLR.csproj|c:\\users\\shaik\\onedrive\\desktop\\my prj\\.net\\mlr\\dtos\\requiredregexattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D985B1-C479-4068-3646-D558428C314C}|MLR.csproj|solutionrelative:dtos\\requiredregexattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D985B1-C479-4068-3646-D558428C314C}|MLR.csproj|c:\\users\\shaik\\onedrive\\desktop\\my prj\\.net\\mlr\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D985B1-C479-4068-3646-D558428C314C}|MLR.csproj|solutionrelative:dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D985B1-C479-4068-3646-D558428C314C}|MLR.csproj|c:\\users\\shaik\\onedrive\\desktop\\my prj\\.net\\mlr\\dtos\\contactrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D985B1-C479-4068-3646-D558428C314C}|MLR.csproj|solutionrelative:dtos\\contactrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D985B1-C479-4068-3646-D558428C314C}|MLR.csproj|c:\\users\\shaik\\onedrive\\desktop\\my prj\\.net\\mlr\\dtos\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D985B1-C479-4068-3646-D558428C314C}|MLR.csproj|solutionrelative:dtos\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D985B1-C479-4068-3646-D558428C314C}|MLR.csproj|c:\\users\\shaik\\onedrive\\desktop\\my prj\\.net\\mlr\\dtos\\addmoneydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D985B1-C479-4068-3646-D558428C314C}|MLR.csproj|solutionrelative:dtos\\addmoneydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D985B1-C479-4068-3646-D558428C314C}|MLR.csproj|c:\\users\\shaik\\onedrive\\desktop\\my prj\\.net\\mlr\\dao\\interfaces\\iwalletdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D985B1-C479-4068-3646-D558428C314C}|MLR.csproj|solutionrelative:dao\\interfaces\\iwalletdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D985B1-C479-4068-3646-D558428C314C}|MLR.csproj|c:\\users\\shaik\\onedrive\\desktop\\my prj\\.net\\mlr\\dao\\interfaces\\itransactiondao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D985B1-C479-4068-3646-D558428C314C}|MLR.csproj|solutionrelative:dao\\interfaces\\itransactiondao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D985B1-C479-4068-3646-D558428C314C}|MLR.csproj|c:\\users\\shaik\\onedrive\\desktop\\my prj\\.net\\mlr\\dao\\interfaces\\ileakagealertdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D985B1-C479-4068-3646-D558428C314C}|MLR.csproj|solutionrelative:dao\\interfaces\\ileakagealertdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D985B1-C479-4068-3646-D558428C314C}|MLR.csproj|c:\\users\\shaik\\onedrive\\desktop\\my prj\\.net\\mlr\\dao\\interfaces\\icategorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D985B1-C479-4068-3646-D558428C314C}|MLR.csproj|solutionrelative:dao\\interfaces\\icategorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D985B1-C479-4068-3646-D558428C314C}|MLR.csproj|c:\\users\\shaik\\onedrive\\desktop\\my prj\\.net\\mlr\\dao\\impl\\categorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D985B1-C479-4068-3646-D558428C314C}|MLR.csproj|solutionrelative:dao\\impl\\categorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D985B1-C479-4068-3646-D558428C314C}|MLR.csproj|c:\\users\\shaik\\onedrive\\desktop\\my prj\\.net\\mlr\\dao\\entities\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D985B1-C479-4068-3646-D558428C314C}|MLR.csproj|solutionrelative:dao\\entities\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D985B1-C479-4068-3646-D558428C314C}|MLR.csproj|c:\\users\\shaik\\onedrive\\desktop\\my prj\\.net\\mlr\\dao\\entities\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D985B1-C479-4068-3646-D558428C314C}|MLR.csproj|solutionrelative:dao\\entities\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D985B1-C479-4068-3646-D558428C314C}|MLR.csproj|c:\\users\\shaik\\onedrive\\desktop\\my prj\\.net\\mlr\\dao\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D985B1-C479-4068-3646-D558428C314C}|MLR.csproj|solutionrelative:dao\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D985B1-C479-4068-3646-D558428C314C}|MLR.csproj|c:\\users\\shaik\\onedrive\\desktop\\my prj\\.net\\mlr\\services\\analyticsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D985B1-C479-4068-3646-D558428C314C}|MLR.csproj|solutionrelative:services\\analyticsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D985B1-C479-4068-3646-D558428C314C}|MLR.csproj|c:\\users\\shaik\\onedrive\\desktop\\my prj\\.net\\mlr\\services\\walletservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D985B1-C479-4068-3646-D558428C314C}|MLR.csproj|solutionrelative:services\\walletservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D985B1-C479-4068-3646-D558428C314C}|MLR.csproj|c:\\users\\shaik\\onedrive\\desktop\\my prj\\.net\\mlr\\services\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D985B1-C479-4068-3646-D558428C314C}|MLR.csproj|solutionrelative:services\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D985B1-C479-4068-3646-D558428C314C}|MLR.csproj|c:\\users\\shaik\\onedrive\\desktop\\my prj\\.net\\mlr\\migrations\\20260129204838_addupiidcolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D985B1-C479-4068-3646-D558428C314C}|MLR.csproj|solutionrelative:migrations\\20260129204838_addupiidcolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D985B1-C479-4068-3646-D558428C314C}|MLR.csproj|c:\\users\\shaik\\onedrive\\desktop\\my prj\\.net\\mlr\\migrations\\20260131190449_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D985B1-C479-4068-3646-D558428C314C}|MLR.csproj|solutionrelative:migrations\\20260131190449_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LeakageDetectionService.cs",
+              "DocumentMoniker": "C:\\Users\\shaik\\OneDrive\\Desktop\\my prj\\.net\\MLR\\BackgroundJobs\\LeakageDetectionService.cs",
+              "RelativeDocumentMoniker": "BackgroundJobs\\LeakageDetectionService.cs",
+              "ToolTip": "C:\\Users\\shaik\\OneDrive\\Desktop\\my prj\\.net\\MLR\\BackgroundJobs\\LeakageDetectionService.cs",
+              "RelativeToolTip": "BackgroundJobs\\LeakageDetectionService.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAowIsAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T20:27:40.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TransactionDao.cs",
+              "DocumentMoniker": "C:\\Users\\shaik\\OneDrive\\Desktop\\my prj\\.net\\MLR\\DAO\\Impl\\TransactionDao.cs",
+              "RelativeDocumentMoniker": "DAO\\Impl\\TransactionDao.cs",
+              "ToolTip": "C:\\Users\\shaik\\OneDrive\\Desktop\\my prj\\.net\\MLR\\DAO\\Impl\\TransactionDao.cs",
+              "RelativeToolTip": "DAO\\Impl\\TransactionDao.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwB4AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T13:10:11.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RuleExecutor.cs",
+              "DocumentMoniker": "C:\\Users\\shaik\\OneDrive\\Desktop\\my prj\\.net\\MLR\\Rules\\RuleExecutor.cs",
+              "RelativeDocumentMoniker": "Rules\\RuleExecutor.cs",
+              "ToolTip": "C:\\Users\\shaik\\OneDrive\\Desktop\\my prj\\.net\\MLR\\Rules\\RuleExecutor.cs",
+              "RelativeToolTip": "Rules\\RuleExecutor.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T13:04:44.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\shaik\\OneDrive\\Desktop\\my prj\\.net\\MLR\\AuthController.cs",
+              "RelativeDocumentMoniker": "AuthController.cs",
+              "ToolTip": "C:\\Users\\shaik\\OneDrive\\Desktop\\my prj\\.net\\MLR\\AuthController.cs",
+              "RelativeToolTip": "AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T19:31:54.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\shaik\\OneDrive\\Desktop\\my prj\\.net\\MLR\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\shaik\\OneDrive\\Desktop\\my prj\\.net\\MLR\\Services\\AuthService.cs",
+              "RelativeToolTip": "Services\\AuthService.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAkwGgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T17:27:02.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RuleLoader.cs",
+              "DocumentMoniker": "C:\\Users\\shaik\\OneDrive\\Desktop\\my prj\\.net\\MLR\\Rules\\RuleLoader.cs",
+              "RelativeDocumentMoniker": "Rules\\RuleLoader.cs",
+              "ToolTip": "C:\\Users\\shaik\\OneDrive\\Desktop\\my prj\\.net\\MLR\\Rules\\RuleLoader.cs",
+              "RelativeToolTip": "Rules\\RuleLoader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T05:42:36.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\shaik\\OneDrive\\Desktop\\my prj\\.net\\MLR\\AdminController.cs",
+              "RelativeDocumentMoniker": "AdminController.cs",
+              "ToolTip": "C:\\Users\\shaik\\OneDrive\\Desktop\\my prj\\.net\\MLR\\AdminController.cs",
+              "RelativeToolTip": "AdminController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAIwCQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:09:39.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RuleExecutionLogDao.cs",
+              "DocumentMoniker": "C:\\Users\\shaik\\OneDrive\\Desktop\\my prj\\.net\\MLR\\DAO\\Impl\\RuleExecutionLogDao.cs",
+              "RelativeDocumentMoniker": "DAO\\Impl\\RuleExecutionLogDao.cs",
+              "ToolTip": "C:\\Users\\shaik\\OneDrive\\Desktop\\my prj\\.net\\MLR\\DAO\\Impl\\RuleExecutionLogDao.cs",
+              "RelativeToolTip": "DAO\\Impl\\RuleExecutionLogDao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T13:09:47.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LeakageAlertDao.cs",
+              "DocumentMoniker": "C:\\Users\\shaik\\OneDrive\\Desktop\\my prj\\.net\\MLR\\DAO\\Impl\\LeakageAlertDao.cs",
+              "RelativeDocumentMoniker": "DAO\\Impl\\LeakageAlertDao.cs",
+              "ToolTip": "C:\\Users\\shaik\\OneDrive\\Desktop\\my prj\\.net\\MLR\\DAO\\Impl\\LeakageAlertDao.cs",
+              "RelativeToolTip": "DAO\\Impl\\LeakageAlertDao.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwE0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T19:29:29.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminService.cs",
+              "DocumentMoniker": "C:\\Users\\shaik\\OneDrive\\Desktop\\my prj\\.net\\MLR\\Services\\AdminService.cs",
+              "RelativeDocumentMoniker": "Services\\AdminService.cs",
+              "ToolTip": "C:\\Users\\shaik\\OneDrive\\Desktop\\my prj\\.net\\MLR\\Services\\AdminService.cs",
+              "RelativeToolTip": "Services\\AdminService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:09:12.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RuleExecutionLog.cs",
+              "DocumentMoniker": "C:\\Users\\shaik\\OneDrive\\Desktop\\my prj\\.net\\MLR\\DAO\\Entities\\RuleExecutionLog.cs",
+              "RelativeDocumentMoniker": "DAO\\Entities\\RuleExecutionLog.cs",
+              "ToolTip": "C:\\Users\\shaik\\OneDrive\\Desktop\\my prj\\.net\\MLR\\DAO\\Entities\\RuleExecutionLog.cs",
+              "RelativeToolTip": "DAO\\Entities\\RuleExecutionLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T20:22:21.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\shaik\\OneDrive\\Desktop\\my prj\\.net\\MLR\\DAO\\Entities\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "DAO\\Entities\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\shaik\\OneDrive\\Desktop\\my prj\\.net\\MLR\\DAO\\Entities\\ApplicationUser.cs",
+              "RelativeToolTip": "DAO\\Entities\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T20:22:15.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LeakageContext.cs",
+              "DocumentMoniker": "C:\\Users\\shaik\\OneDrive\\Desktop\\my prj\\.net\\MLR\\Rules\\LeakageContext.cs",
+              "RelativeDocumentMoniker": "Rules\\LeakageContext.cs",
+              "ToolTip": "C:\\Users\\shaik\\OneDrive\\Desktop\\my prj\\.net\\MLR\\Rules\\LeakageContext.cs",
+              "RelativeToolTip": "Rules\\LeakageContext.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T13:04:02.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ValidationPatterns.cs",
+              "DocumentMoniker": "C:\\Users\\shaik\\OneDrive\\Desktop\\my prj\\.net\\MLR\\DTOs\\ValidationPatterns.cs",
+              "RelativeDocumentMoniker": "DTOs\\ValidationPatterns.cs",
+              "ToolTip": "C:\\Users\\shaik\\OneDrive\\Desktop\\my prj\\.net\\MLR\\DTOs\\ValidationPatterns.cs",
+              "RelativeToolTip": "DTOs\\ValidationPatterns.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T20:23:24.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PaymentDto.cs",
+              "DocumentMoniker": "C:\\Users\\shaik\\OneDrive\\Desktop\\my prj\\.net\\MLR\\DTOs\\PaymentDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\PaymentDto.cs",
+              "ToolTip": "C:\\Users\\shaik\\OneDrive\\Desktop\\my prj\\.net\\MLR\\DTOs\\PaymentDto.cs",
+              "RelativeToolTip": "DTOs\\PaymentDto.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T20:26:40.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LeakageAlertDto.cs",
+              "DocumentMoniker": "C:\\Users\\shaik\\OneDrive\\Desktop\\my prj\\.net\\MLR\\DTOs\\LeakageAlertDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\LeakageAlertDto.cs",
+              "ToolTip": "C:\\Users\\shaik\\OneDrive\\Desktop\\my prj\\.net\\MLR\\DTOs\\LeakageAlertDto.cs",
+              "RelativeToolTip": "DTOs\\LeakageAlertDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T13:08:36.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\shaik\\OneDrive\\Desktop\\my prj\\.net\\MLR\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\shaik\\OneDrive\\Desktop\\my prj\\.net\\MLR\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-29T21:40:56.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WalletController.cs",
+              "DocumentMoniker": "C:\\Users\\shaik\\OneDrive\\Desktop\\my prj\\.net\\MLR\\WalletController.cs",
+              "RelativeDocumentMoniker": "WalletController.cs",
+              "ToolTip": "C:\\Users\\shaik\\OneDrive\\Desktop\\my prj\\.net\\MLR\\WalletController.cs",
+              "RelativeToolTip": "WalletController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T13:13:20.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\shaik\\OneDrive\\Desktop\\my prj\\.net\\MLR\\Infrastructure\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\shaik\\OneDrive\\Desktop\\my prj\\.net\\MLR\\Infrastructure\\DbInitializer.cs",
+              "RelativeToolTip": "Infrastructure\\DbInitializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T20:23:30.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IRuleExecutionLogDao.cs",
+              "DocumentMoniker": "C:\\Users\\shaik\\OneDrive\\Desktop\\my prj\\.net\\MLR\\DAO\\Interfaces\\IRuleExecutionLogDao.cs",
+              "RelativeDocumentMoniker": "DAO\\Interfaces\\IRuleExecutionLogDao.cs",
+              "ToolTip": "C:\\Users\\shaik\\OneDrive\\Desktop\\my prj\\.net\\MLR\\DAO\\Interfaces\\IRuleExecutionLogDao.cs",
+              "RelativeToolTip": "DAO\\Interfaces\\IRuleExecutionLogDao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T20:22:56.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "WalletDao.cs",
+              "DocumentMoniker": "C:\\Users\\shaik\\OneDrive\\Desktop\\my prj\\.net\\MLR\\DAO\\Impl\\WalletDao.cs",
+              "RelativeDocumentMoniker": "DAO\\Impl\\WalletDao.cs",
+              "ToolTip": "C:\\Users\\shaik\\OneDrive\\Desktop\\my prj\\.net\\MLR\\DAO\\Impl\\WalletDao.cs",
+              "RelativeToolTip": "DAO\\Impl\\WalletDao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T20:22:50.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AnalyticsController.cs",
+              "DocumentMoniker": "C:\\Users\\shaik\\OneDrive\\Desktop\\my prj\\.net\\MLR\\AnalyticsController.cs",
+              "RelativeDocumentMoniker": "AnalyticsController.cs",
+              "ToolTip": "C:\\Users\\shaik\\OneDrive\\Desktop\\my prj\\.net\\MLR\\AnalyticsController.cs",
+              "RelativeToolTip": "AnalyticsController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwCgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T13:42:29.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\shaik\\OneDrive\\Desktop\\my prj\\.net\\MLR\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\shaik\\OneDrive\\Desktop\\my prj\\.net\\MLR\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ApplicationDbContext.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T13:12:46.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\shaik\\OneDrive\\Desktop\\my prj\\.net\\MLR\\DTOs\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\shaik\\OneDrive\\Desktop\\my prj\\.net\\MLR\\DTOs\\RegisterDto.cs",
+              "RelativeToolTip": "DTOs\\RegisterDto.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T20:23:14.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LeakageAlert.cs",
+              "DocumentMoniker": "C:\\Users\\shaik\\OneDrive\\Desktop\\my prj\\.net\\MLR\\DAO\\Entities\\LeakageAlert.cs",
+              "RelativeDocumentMoniker": "DAO\\Entities\\LeakageAlert.cs",
+              "ToolTip": "C:\\Users\\shaik\\OneDrive\\Desktop\\my prj\\.net\\MLR\\DAO\\Entities\\LeakageAlert.cs",
+              "RelativeToolTip": "DAO\\Entities\\LeakageAlert.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T20:22:20.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TransactionController.cs",
+              "DocumentMoniker": "C:\\Users\\shaik\\OneDrive\\Desktop\\my prj\\.net\\MLR\\TransactionController.cs",
+              "RelativeDocumentMoniker": "TransactionController.cs",
+              "ToolTip": "C:\\Users\\shaik\\OneDrive\\Desktop\\my prj\\.net\\MLR\\TransactionController.cs",
+              "RelativeToolTip": "TransactionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T13:13:18.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shaik\\OneDrive\\Desktop\\my prj\\.net\\MLR\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\shaik\\OneDrive\\Desktop\\my prj\\.net\\MLR\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T13:13:00.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\shaik\\OneDrive\\Desktop\\my prj\\.net\\MLR\\ContactController.cs",
+              "RelativeDocumentMoniker": "ContactController.cs",
+              "ToolTip": "C:\\Users\\shaik\\OneDrive\\Desktop\\my prj\\.net\\MLR\\ContactController.cs",
+              "RelativeToolTip": "ContactController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T13:12:57.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "WalletBalanceDto.cs",
+              "DocumentMoniker": "C:\\Users\\shaik\\OneDrive\\Desktop\\my prj\\.net\\MLR\\DTOs\\WalletBalanceDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\WalletBalanceDto.cs",
+              "ToolTip": "C:\\Users\\shaik\\OneDrive\\Desktop\\my prj\\.net\\MLR\\DTOs\\WalletBalanceDto.cs",
+              "RelativeToolTip": "DTOs\\WalletBalanceDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T20:23:27.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "RequiredRegexAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\shaik\\OneDrive\\Desktop\\my prj\\.net\\MLR\\DTOs\\RequiredRegexAttribute.cs",
+              "RelativeDocumentMoniker": "DTOs\\RequiredRegexAttribute.cs",
+              "ToolTip": "C:\\Users\\shaik\\OneDrive\\Desktop\\my prj\\.net\\MLR\\DTOs\\RequiredRegexAttribute.cs",
+              "RelativeToolTip": "DTOs\\RequiredRegexAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T20:23:15.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\shaik\\OneDrive\\Desktop\\my prj\\.net\\MLR\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\shaik\\OneDrive\\Desktop\\my prj\\.net\\MLR\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "DTOs\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T20:23:13.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ContactRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\shaik\\OneDrive\\Desktop\\my prj\\.net\\MLR\\DTOs\\ContactRequestDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\ContactRequestDto.cs",
+              "ToolTip": "C:\\Users\\shaik\\OneDrive\\Desktop\\my prj\\.net\\MLR\\DTOs\\ContactRequestDto.cs",
+              "RelativeToolTip": "DTOs\\ContactRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T20:23:10.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AddMoneyDto.cs",
+              "DocumentMoniker": "C:\\Users\\shaik\\OneDrive\\Desktop\\my prj\\.net\\MLR\\DTOs\\AddMoneyDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\AddMoneyDto.cs",
+              "ToolTip": "C:\\Users\\shaik\\OneDrive\\Desktop\\my prj\\.net\\MLR\\DTOs\\AddMoneyDto.cs",
+              "RelativeToolTip": "DTOs\\AddMoneyDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T20:23:05.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IWalletDao.cs",
+              "DocumentMoniker": "C:\\Users\\shaik\\OneDrive\\Desktop\\my prj\\.net\\MLR\\DAO\\Interfaces\\IWalletDao.cs",
+              "RelativeDocumentMoniker": "DAO\\Interfaces\\IWalletDao.cs",
+              "ToolTip": "C:\\Users\\shaik\\OneDrive\\Desktop\\my prj\\.net\\MLR\\DAO\\Interfaces\\IWalletDao.cs",
+              "RelativeToolTip": "DAO\\Interfaces\\IWalletDao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T20:23:02.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ITransactionDao.cs",
+              "DocumentMoniker": "C:\\Users\\shaik\\OneDrive\\Desktop\\my prj\\.net\\MLR\\DAO\\Interfaces\\ITransactionDao.cs",
+              "RelativeDocumentMoniker": "DAO\\Interfaces\\ITransactionDao.cs",
+              "ToolTip": "C:\\Users\\shaik\\OneDrive\\Desktop\\my prj\\.net\\MLR\\DAO\\Interfaces\\ITransactionDao.cs",
+              "RelativeToolTip": "DAO\\Interfaces\\ITransactionDao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T20:22:58.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "TransactionDto.cs",
+              "DocumentMoniker": "C:\\Users\\shaik\\OneDrive\\Desktop\\my prj\\.net\\MLR\\DTOs\\TransactionDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\TransactionDto.cs",
+              "ToolTip": "C:\\Users\\shaik\\OneDrive\\Desktop\\my prj\\.net\\MLR\\DTOs\\TransactionDto.cs",
+              "RelativeToolTip": "DTOs\\TransactionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T21:32:27.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ICategoryDao.cs",
+              "DocumentMoniker": "C:\\Users\\shaik\\OneDrive\\Desktop\\my prj\\.net\\MLR\\DAO\\Interfaces\\ICategoryDao.cs",
+              "RelativeDocumentMoniker": "DAO\\Interfaces\\ICategoryDao.cs",
+              "ToolTip": "C:\\Users\\shaik\\OneDrive\\Desktop\\my prj\\.net\\MLR\\DAO\\Interfaces\\ICategoryDao.cs",
+              "RelativeToolTip": "DAO\\Interfaces\\ICategoryDao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T20:22:54.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CategoryDao.cs",
+              "DocumentMoniker": "C:\\Users\\shaik\\OneDrive\\Desktop\\my prj\\.net\\MLR\\DAO\\Impl\\CategoryDao.cs",
+              "RelativeDocumentMoniker": "DAO\\Impl\\CategoryDao.cs",
+              "ToolTip": "C:\\Users\\shaik\\OneDrive\\Desktop\\my prj\\.net\\MLR\\DAO\\Impl\\CategoryDao.cs",
+              "RelativeToolTip": "DAO\\Impl\\CategoryDao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T20:22:33.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Wallet.cs",
+              "DocumentMoniker": "C:\\Users\\shaik\\OneDrive\\Desktop\\my prj\\.net\\MLR\\DAO\\Entities\\Wallet.cs",
+              "RelativeDocumentMoniker": "DAO\\Entities\\Wallet.cs",
+              "ToolTip": "C:\\Users\\shaik\\OneDrive\\Desktop\\my prj\\.net\\MLR\\DAO\\Entities\\Wallet.cs",
+              "RelativeToolTip": "DAO\\Entities\\Wallet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T20:22:28.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AuthResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\shaik\\OneDrive\\Desktop\\my prj\\.net\\MLR\\DTOs\\AuthResponseDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\AuthResponseDto.cs",
+              "ToolTip": "C:\\Users\\shaik\\OneDrive\\Desktop\\my prj\\.net\\MLR\\DTOs\\AuthResponseDto.cs",
+              "RelativeToolTip": "DTOs\\AuthResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T13:08:50.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\shaik\\OneDrive\\Desktop\\my prj\\.net\\MLR\\DAO\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "DAO\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\shaik\\OneDrive\\Desktop\\my prj\\.net\\MLR\\DAO\\Entities\\Category.cs",
+              "RelativeToolTip": "DAO\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T20:22:18.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ILeakageAlertDao.cs",
+              "DocumentMoniker": "C:\\Users\\shaik\\OneDrive\\Desktop\\my prj\\.net\\MLR\\DAO\\Interfaces\\ILeakageAlertDao.cs",
+              "RelativeDocumentMoniker": "DAO\\Interfaces\\ILeakageAlertDao.cs",
+              "ToolTip": "C:\\Users\\shaik\\OneDrive\\Desktop\\my prj\\.net\\MLR\\DAO\\Interfaces\\ILeakageAlertDao.cs",
+              "RelativeToolTip": "DAO\\Interfaces\\ILeakageAlertDao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T19:28:42.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "20260131190449_Init.cs",
+              "DocumentMoniker": "C:\\Users\\shaik\\OneDrive\\Desktop\\my prj\\.net\\MLR\\Migrations\\20260131190449_Init.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260131190449_Init.cs",
+              "ToolTip": "C:\\Users\\shaik\\OneDrive\\Desktop\\my prj\\.net\\MLR\\Migrations\\20260131190449_Init.cs",
+              "RelativeToolTip": "Migrations\\20260131190449_Init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T19:04:49.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\shaik\\OneDrive\\Desktop\\my prj\\.net\\MLR\\DAO\\Entities\\Transaction.cs",
+              "RelativeDocumentMoniker": "DAO\\Entities\\Transaction.cs",
+              "ToolTip": "C:\\Users\\shaik\\OneDrive\\Desktop\\my prj\\.net\\MLR\\DAO\\Entities\\Transaction.cs",
+              "RelativeToolTip": "DAO\\Entities\\Transaction.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwCAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T20:25:32.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "AnalyticsService.cs",
+              "DocumentMoniker": "C:\\Users\\shaik\\OneDrive\\Desktop\\my prj\\.net\\MLR\\Services\\AnalyticsService.cs",
+              "RelativeDocumentMoniker": "Services\\AnalyticsService.cs",
+              "ToolTip": "C:\\Users\\shaik\\OneDrive\\Desktop\\my prj\\.net\\MLR\\Services\\AnalyticsService.cs",
+              "RelativeToolTip": "Services\\AnalyticsService.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAqwGQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T13:25:22.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "WalletService.cs",
+              "DocumentMoniker": "C:\\Users\\shaik\\OneDrive\\Desktop\\my prj\\.net\\MLR\\Services\\WalletService.cs",
+              "RelativeDocumentMoniker": "Services\\WalletService.cs",
+              "ToolTip": "C:\\Users\\shaik\\OneDrive\\Desktop\\my prj\\.net\\MLR\\Services\\WalletService.cs",
+              "RelativeToolTip": "Services\\WalletService.cs",
+              "ViewState": "AgIAAGEAAACYmZmZmZkrwG0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T13:12:38.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "20260129204838_AddUpiIdColumn.cs",
+              "DocumentMoniker": "C:\\Users\\shaik\\OneDrive\\Desktop\\my prj\\.net\\MLR\\Migrations\\20260129204838_AddUpiIdColumn.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260129204838_AddUpiIdColumn.cs",
+              "ToolTip": "C:\\Users\\shaik\\OneDrive\\Desktop\\my prj\\.net\\MLR\\Migrations\\20260129204838_AddUpiIdColumn.cs",
+              "RelativeToolTip": "Migrations\\20260129204838_AddUpiIdColumn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T20:48:40.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "TransactionService.cs",
+              "DocumentMoniker": "C:\\Users\\shaik\\OneDrive\\Desktop\\my prj\\.net\\MLR\\Services\\TransactionService.cs",
+              "RelativeDocumentMoniker": "Services\\TransactionService.cs",
+              "ToolTip": "C:\\Users\\shaik\\OneDrive\\Desktop\\my prj\\.net\\MLR\\Services\\TransactionService.cs",
+              "RelativeToolTip": "Services\\TransactionService.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T13:12:25.412Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1173 @@
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\obj\Debug\net8.0\MLR.csproj.AssemblyReference.cache
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\obj\Debug\net8.0\MLR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\obj\Debug\net8.0\MLR.AssemblyInfoInputs.cache
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\obj\Debug\net8.0\MLR.AssemblyInfo.cs
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\obj\Debug\net8.0\MLR.csproj.CoreCompileInputs.cache
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\obj\Debug\net8.0\MLR.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\obj\Debug\net8.0\MLR.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\obj\Debug\net8.0\MLR.RazorAssemblyInfo.cache
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\obj\Debug\net8.0\MLR.RazorAssemblyInfo.cs
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\appsettings.json
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\MLR.staticwebassets.runtime.json
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\MLR.staticwebassets.endpoints.json
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\MLR.exe
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\MLR.deps.json
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\MLR.runtimeconfig.json
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\MLR.dll
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\MLR.pdb
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\FastExpressionCompiler.dll
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\Humanizer.dll
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\RulesEngine.dll
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\System.Linq.Dynamic.Core.dll
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\obj\Debug\net8.0\scopedcss\bundle\MLR.styles.css
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\obj\Debug\net8.0\scopedcss\projectbundle\MLR.bundle.scp.css
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\obj\Debug\net8.0\MLR.csproj.Up2Date
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\obj\Debug\net8.0\MLR.dll
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\obj\Debug\net8.0\refint\MLR.dll
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\obj\Debug\net8.0\MLR.pdb
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\obj\Debug\net8.0\MLR.genruntimeconfig.cache
+C:\Users\shaik\OneDrive\Desktop\MLR\MLR_backend_fixed\MLR\obj\Debug\net8.0\ref\MLR.dll
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\appsettings.Development.json
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\appsettings.json
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\MLR.staticwebassets.runtime.json
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\MLR.staticwebassets.endpoints.json
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\MLR.exe
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\MLR.deps.json
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\MLR.runtimeconfig.json
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\MLR.dll
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\MLR.pdb
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\FastExpressionCompiler.dll
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\FluentValidation.dll
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Humanizer.dll
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\MySqlConnector.dll
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\RulesEngine.dll
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\System.CodeDom.dll
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\System.Linq.Dynamic.Core.dll
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\MLR.csproj.AssemblyReference.cache
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\MLR.GeneratedMSBuildEditorConfig.editorconfig
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\MLR.AssemblyInfoInputs.cache
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\MLR.AssemblyInfo.cs
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\MLR.csproj.CoreCompileInputs.cache
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\MLR.MvcApplicationPartsAssemblyInfo.cs
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\MLR.MvcApplicationPartsAssemblyInfo.cache
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\MLR.RazorAssemblyInfo.cache
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\MLR.RazorAssemblyInfo.cs
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\scopedcss\bundle\MLR.styles.css
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\scopedcss\projectbundle\MLR.bundle.scp.css
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\staticwebassets.build.json
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\staticwebassets.development.json
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\swae.build.ex.cache
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\MLR.csproj.Up2Date
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\MLR.dll
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\refint\MLR.dll
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\MLR.pdb
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\MLR.genruntimeconfig.cache
+C:\.LOAF\C-DAC KH\Project\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\ref\MLR.dll
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\appsettings.json
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\MLR.staticwebassets.runtime.json
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\MLR.staticwebassets.endpoints.json
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\MLR.exe
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\MLR.deps.json
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\MLR.runtimeconfig.json
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\MLR.dll
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\MLR.pdb
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\FastExpressionCompiler.dll
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Humanizer.dll
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\RulesEngine.dll
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\System.Linq.Dynamic.Core.dll
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\MLR.csproj.AssemblyReference.cache
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\MLR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\MLR.AssemblyInfoInputs.cache
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\MLR.AssemblyInfo.cs
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\MLR.csproj.CoreCompileInputs.cache
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\MLR.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\MLR.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\MLR.RazorAssemblyInfo.cache
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\MLR.RazorAssemblyInfo.cs
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\scopedcss\bundle\MLR.styles.css
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\scopedcss\projectbundle\MLR.bundle.scp.css
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\MLR.csproj.Up2Date
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\MLR.dll
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\refint\MLR.dll
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\MLR.pdb
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\MLR.genruntimeconfig.cache
+C:\Users\TEJAS.000\source\repos\Money Leakage Asfiya\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\ref\MLR.dll
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\appsettings.json
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\MLR.staticwebassets.runtime.json
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\MLR.staticwebassets.endpoints.json
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\MLR.exe
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\MLR.deps.json
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\MLR.runtimeconfig.json
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\MLR.dll
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\MLR.pdb
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\FastExpressionCompiler.dll
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Humanizer.dll
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\RulesEngine.dll
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\System.Linq.Dynamic.Core.dll
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\MLR.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\MLR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\MLR.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\MLR.AssemblyInfo.cs
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\MLR.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\MLR.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\MLR.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\MLR.RazorAssemblyInfo.cache
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\MLR.RazorAssemblyInfo.cs
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\scopedcss\bundle\MLR.styles.css
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\scopedcss\projectbundle\MLR.bundle.scp.css
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\MLR.csproj.Up2Date
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\MLR.dll
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\refint\MLR.dll
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\MLR.pdb
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\MLR.genruntimeconfig.cache
+C:\Users\HP\Downloads\Money Leakage Asfiya 2\Money Leakage Asfiya 2\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\ref\MLR.dll
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\appsettings.json
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\MLR.staticwebassets.runtime.json
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\MLR.staticwebassets.endpoints.json
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\MLR.exe
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\MLR.deps.json
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\MLR.runtimeconfig.json
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\MLR.dll
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\MLR.pdb
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\FastExpressionCompiler.dll
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Humanizer.dll
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\RulesEngine.dll
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\System.Linq.Dynamic.Core.dll
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\MLR.csproj.AssemblyReference.cache
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\MLR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\MLR.AssemblyInfoInputs.cache
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\MLR.AssemblyInfo.cs
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\MLR.csproj.CoreCompileInputs.cache
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\MLR.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\MLR.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\MLR.RazorAssemblyInfo.cache
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\MLR.RazorAssemblyInfo.cs
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\scopedcss\bundle\MLR.styles.css
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\scopedcss\projectbundle\MLR.bundle.scp.css
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\MLR.csproj.Up2Date
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\MLR.dll
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\refint\MLR.dll
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\MLR.pdb
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\MLR.genruntimeconfig.cache
+C:\Users\TEJAS.000\Downloads\ms.net\Money Leakage Asfiya 2 (2)\Money Leakage Asfiya\MLR_backend_fixed\MLR\obj\Debug\net8.0\ref\MLR.dll
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\obj\Debug\net8.0\MLR.dll
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\obj\Debug\net8.0\refint\MLR.dll
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\obj\Debug\net8.0\MLR.pdb
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\appsettings.json
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\MLR.staticwebassets.runtime.json
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\MLR.staticwebassets.endpoints.json
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\MLR.exe
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\MLR.deps.json
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\MLR.runtimeconfig.json
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\MLR.dll
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\MLR.pdb
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\FastExpressionCompiler.dll
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\Humanizer.dll
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\RulesEngine.dll
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\System.Linq.Dynamic.Core.dll
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\obj\Debug\net8.0\MLR.csproj.AssemblyReference.cache
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\obj\Debug\net8.0\MLR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\obj\Debug\net8.0\MLR.AssemblyInfoInputs.cache
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\obj\Debug\net8.0\MLR.AssemblyInfo.cs
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\obj\Debug\net8.0\MLR.csproj.CoreCompileInputs.cache
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\obj\Debug\net8.0\MLR.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\obj\Debug\net8.0\MLR.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\obj\Debug\net8.0\MLR.RazorAssemblyInfo.cache
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\obj\Debug\net8.0\MLR.RazorAssemblyInfo.cs
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\obj\Debug\net8.0\scopedcss\bundle\MLR.styles.css
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\obj\Debug\net8.0\scopedcss\projectbundle\MLR.bundle.scp.css
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\obj\Debug\net8.0\MLR.csproj.Up2Date
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\obj\Debug\net8.0\MLR.genruntimeconfig.cache
+C:\Users\shaik\OneDrive\Desktop\final\MLR\MLR\MLR\obj\Debug\net8.0\ref\MLR.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\appsettings.json
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\MLR.staticwebassets.runtime.json
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\MLR.staticwebassets.endpoints.json
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\MLR.exe
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\MLR.deps.json
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\MLR.runtimeconfig.json
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\MLR.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\MLR.pdb
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\FastExpressionCompiler.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\Humanizer.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\RulesEngine.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\System.Linq.Dynamic.Core.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\obj\Debug\net8.0\MLR.csproj.AssemblyReference.cache
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\obj\Debug\net8.0\MLR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\obj\Debug\net8.0\MLR.AssemblyInfoInputs.cache
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\obj\Debug\net8.0\MLR.AssemblyInfo.cs
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\obj\Debug\net8.0\MLR.csproj.CoreCompileInputs.cache
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\obj\Debug\net8.0\MLR.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\obj\Debug\net8.0\MLR.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\obj\Debug\net8.0\MLR.RazorAssemblyInfo.cache
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\obj\Debug\net8.0\MLR.RazorAssemblyInfo.cs
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\obj\Debug\net8.0\scopedcss\bundle\MLR.styles.css
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\obj\Debug\net8.0\scopedcss\projectbundle\MLR.bundle.scp.css
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\obj\Debug\net8.0\MLR.csproj.Up2Date
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\obj\Debug\net8.0\MLR.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\obj\Debug\net8.0\refint\MLR.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\obj\Debug\net8.0\MLR.pdb
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\obj\Debug\net8.0\MLR.genruntimeconfig.cache
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\MLR\obj\Debug\net8.0\ref\MLR.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\appsettings.json
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\MLR.staticwebassets.runtime.json
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\MLR.staticwebassets.endpoints.json
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\MLR.exe
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\MLR.deps.json
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\MLR.runtimeconfig.json
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\MLR.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\MLR.pdb
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\FastExpressionCompiler.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\Humanizer.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\RulesEngine.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\System.Linq.Dynamic.Core.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\obj\Debug\net8.0\MLR.csproj.AssemblyReference.cache
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\obj\Debug\net8.0\MLR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\obj\Debug\net8.0\MLR.AssemblyInfoInputs.cache
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\obj\Debug\net8.0\MLR.AssemblyInfo.cs
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\obj\Debug\net8.0\MLR.csproj.CoreCompileInputs.cache
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\obj\Debug\net8.0\MLR.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\obj\Debug\net8.0\MLR.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\obj\Debug\net8.0\MLR.RazorAssemblyInfo.cache
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\obj\Debug\net8.0\MLR.RazorAssemblyInfo.cs
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\obj\Debug\net8.0\scopedcss\bundle\MLR.styles.css
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\obj\Debug\net8.0\scopedcss\projectbundle\MLR.bundle.scp.css
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\obj\Debug\net8.0\MLR.csproj.Up2Date
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\obj\Debug\net8.0\MLR.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\obj\Debug\net8.0\refint\MLR.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\obj\Debug\net8.0\MLR.pdb
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\obj\Debug\net8.0\MLR.genruntimeconfig.cache
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\obj\Debug\net8.0\ref\MLR.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\itext.barcodes.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\itext.bouncy-castle-connector.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\itext.forms.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\itext.io.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\itext.kernel.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\itext.layout.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\itext.pdfa.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\itext.pdfua.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\itext.sign.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\itext.styledxmlparser.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\itext.svg.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\itext.bouncy-castle-adapter.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\itext.commons.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\TEJAS.000\Downloads\projects\.net\MLR\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\appsettings.json
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\MLR.staticwebassets.runtime.json
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\MLR.staticwebassets.endpoints.json
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\MLR.exe
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\MLR.deps.json
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\MLR.runtimeconfig.json
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\MLR.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\MLR.pdb
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\FastExpressionCompiler.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\Humanizer.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\itext.barcodes.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\itext.bouncy-castle-connector.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\itext.forms.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\itext.io.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\itext.kernel.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\itext.layout.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\itext.pdfa.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\itext.pdfua.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\itext.sign.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\itext.styledxmlparser.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\itext.svg.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\itext.bouncy-castle-adapter.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\itext.commons.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\RulesEngine.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\System.Linq.Dynamic.Core.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\obj\Debug\net8.0\MLR.csproj.AssemblyReference.cache
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\obj\Debug\net8.0\MLR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\obj\Debug\net8.0\MLR.AssemblyInfoInputs.cache
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\obj\Debug\net8.0\MLR.AssemblyInfo.cs
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\obj\Debug\net8.0\MLR.csproj.CoreCompileInputs.cache
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\obj\Debug\net8.0\MLR.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\obj\Debug\net8.0\MLR.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\obj\Debug\net8.0\MLR.RazorAssemblyInfo.cache
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\obj\Debug\net8.0\MLR.RazorAssemblyInfo.cs
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\obj\Debug\net8.0\scopedcss\bundle\MLR.styles.css
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\obj\Debug\net8.0\scopedcss\projectbundle\MLR.bundle.scp.css
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\obj\Debug\net8.0\MLR.csproj.Up2Date
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\obj\Debug\net8.0\MLR.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\obj\Debug\net8.0\refint\MLR.dll
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\obj\Debug\net8.0\MLR.pdb
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\obj\Debug\net8.0\MLR.genruntimeconfig.cache
+C:\Users\shaik\OneDrive\Desktop\my prj\.net\MLR\obj\Debug\net8.0\ref\MLR.dll
